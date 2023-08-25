@@ -1,0 +1,15 @@
+{
+    "name": "Ad-Blocker",
+    "version": "0.1",
+    "description": "Ad-Blocker helps to block the ad and unwanted 18+ websites",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logo2.png",
+        "48": "icons/logo3.png",
+        "128": "icons/logo1.png"
+    },
+    "manifest_version": 2
+}
