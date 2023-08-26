@@ -1,7 +1,7 @@
 {
-    "name": "Ad-Blocker",
+    "name": "P-Blocker",
     "version": "0.1",
-    "description": "Ad-Blocker helps to block the ad and unwanted 18+ websites",
+    "description": "P-Blocker helps to block unwanted 18+ websites and ADs",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
