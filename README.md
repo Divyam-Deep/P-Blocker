@@ -1,2 +1,2 @@
-# Chrome-Extension
-this chrome extension blocks the unwanted 18+ website and ads
+# P-Blocker
+P-Blocker is a chrome extension that blocks unwanted 18+ website and ads
